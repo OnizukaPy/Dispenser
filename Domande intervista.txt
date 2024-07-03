@@ -1,0 +1,17 @@
+Hardware 
+
+Come è stato strutturato il progetto?
+Divisione dei team
+
+Fasi principali:
+
+Disegno prototipo
+Circuiti 
+Assemblaggio finale
+
+
+Software
+
+Divisione compiti
+Ci sono state fasi critiche nello sviluppo del codice?
+Sono stati effettuati dei test?
